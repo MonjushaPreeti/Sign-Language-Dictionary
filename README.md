@@ -5,7 +5,9 @@ By integrating a JSON file linked to a public API that contains images of ISL si
 
 # Features
 📖 Interactive Dictionary: Users can input a letter, and the application displays the relevant ISL sign image.
+
 🔗 API Integration: The app fetches sign images dynamically via a public API for ISL.
+
 🖥️ GUI Built with Tkinter: A simple, intuitive interface that is easy for users of all ages to navigate.
 ## Why I Developed This
 This dictionary was developed as a side project alongside my main project for my 3rd year, 2nd semester, which focused on a Sign Language Interpreter. The dictionary complements that project by offering a standalone tool for learning individual signs without real-time translation.
